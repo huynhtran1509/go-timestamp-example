@@ -1,0 +1,4 @@
+framework module "Timestamp" {
+    header "Timestamp.h"
+    export *
+}
