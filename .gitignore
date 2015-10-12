@@ -1,6 +1,6 @@
 .DS_Store
 *.sqlite
-Timestamps.framework
+Timestamp.framework
 
 # Xcode
 # Pulled from: https://github.com/github/gitignore/blob/master/Swift.gitignore
